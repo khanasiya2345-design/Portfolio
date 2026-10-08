@@ -15,7 +15,7 @@ const Navbar = () => {
           href="#about"
           className="transition-colors duration-200 hover:text-neutral-900"
         >
-          About
+          about
         </a>
 
         <a
